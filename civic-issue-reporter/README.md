@@ -2,7 +2,6 @@
 
 A full-stack project that empowers citizens to report civic issues, get AI legal guidance, and gives admin users a focused portal for complaint management and analytics.
 
-**Live Demo:** [https://civic-issue-reporting-system-1-b6tg.onrender.com](https://civic-issue-reporting-system-1-b6tg.onrender.com)
 
 ---
 
@@ -145,7 +144,6 @@ The app is deployed on **Render** as a single web service — the Express server
 
 | | |
 |---|---|
-| **Live URL** | [https://civic-issue-reporting-system-1-b6tg.onrender.com](https://civic-issue-reporting-system-1-b6tg.onrender.com) |
 | **Platform** | [Render](https://render.com) |
 | **Auto-deploy** | Pushes to `main` on GitHub trigger a new deploy |
 
